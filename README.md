@@ -1,4 +1,4 @@
-# software_eng_projects
+# Software Engineering Projects
 Repository for software engineering projects conducted for self-learning purpose.
 
 ## Contents
